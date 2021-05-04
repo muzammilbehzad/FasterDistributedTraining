@@ -1,4 +1,4 @@
-# Code Available Soon
+# Code will be available soon
 
 ## Faster Distributed Training
 This repo can be used to draft out deep learning codes with faster and distributed training over multiple GPUs or even multiple nodes.
